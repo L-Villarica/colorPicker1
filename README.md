@@ -1,1 +1,1 @@
-# colorPicker1
+# ColorPicker
